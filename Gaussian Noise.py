@@ -53,12 +53,3 @@ cv2.imshow("Denoised Gaussian", denoised_gaussian)
 
 cv2.waitKey(0)
 cv2.destroyAllWindows()
-
-
-
-
-
-
-
-
-#"C:\Users\lotus\Pictures\large-language-model-gradient-background-cropped-1-1024x814.png"
